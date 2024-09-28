@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weshv - Food Charity Platform</title>
+  <link rel="stylesheet" href="css/style.css">
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 0.3s ease; /* Added smooth transition to all elements */
+}
+
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #d3f2ec;
+  color: #333;
+}
+
+/* Header */
+header {
+  background-color: #d3f2ec;
+  color: #e32091;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+
+header .logo h1 {
+  font-size: 2rem;
+  transform: translateY(0);
+  transition: transform 0.5s ease-in-out;
+}
+
+header:hover .logo h1 {
+  transform: translateY(-10px); /* Logo hover effect */
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+}
+
+header nav ul li {
+  margin-left: 2rem;
+}
+
+header nav ul li a {
+  color: #e32091;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+header nav ul li a:hover {
+  text-decoration: underline;
+  color: #b31c7b;
+  transform: scale(1.1); /* Scale on hover */
+}
+
+/* Hero Section */
+.hero {
+  background-color: #e32091;
+  color: white;
+  text-align: center;
+  padding: 4rem 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  opacity: 1;
+  transform: translateY(0);
+  transition: transform 0.8s ease-in-out, opacity 0.8s ease-in-out;
+}
+
+.hero:hover h1 {
+  transform: translateY(-10px); /* Hero title hover effect */
+  opacity: 0.9;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.cta-btn {
+  background-color: white;
+  color: #e32091;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.4s, transform 0.4s;
+}
+
+.cta-btn:hover {
+  background-color: #d3f2ec;
+  color: #e32091;
+  transform: scale(1.05); /* Button hover scale effect */
+}
+
+/* Blog Posts Section */
+.posts {
+  padding: 3rem 2rem;
+  background-color: #f7f7f7;
+}
+
+.posts h2 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.post-list {
+  display: flex;
+  justify-content: space-around;
+  gap: 2rem;
+}
+
+.post {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 30%;
+  transition: transform 0.4s ease-in-out;
+}
+
+.post:hover {
+  transform: translateY(-10px); /* Blog post hover effect */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.post h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.post p {
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.read-more {
+  color: #e32091;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+  color: #b31c7b;
+  transform: scale(1.1); /* Read more hover effect */
+}
+
+/* Report Upload Section */
+.report-upload {
+  padding: 3rem 2rem;
+  background-color: #d3f2ec;
+}
+
+.report-upload h2 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.report-upload form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.report-upload input, .report-upload textarea {
+  padding: 0.8rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: border-color 0.3s;
+}
+
+.report-upload input:focus, .report-upload textarea:focus {
+  border-color: #e32091;
+}
+
+.report-upload button {
+  background-color: #e32091;
+  color: white;
+  border: none;
+  padding: 0.8rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.4s, transform 0.4s;
+}
+
+.report-upload button:hover {
+  background-color: #b31c7b;
+  transform: scale(1.05); /* Button hover scale effect */
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+    .post-list {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .post {
+      width: 100%;
+      margin-bottom: 2rem;
+    }
+  
+    header nav ul {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .hero h1 {
+      font-size: 2rem;
+    }
+  
+    .hero p {
+      font-size: 1rem;
+    }
+}
+</style>
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <div class="logo">
+      <h1>WeShv</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Donate</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Login</a></li>
+        <li><a href="#">Register</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Help Us Fight Hunger</h1>
+      <p>Donate food or funds to help those in need.</p>
+      <button class="cta-btn">Get Involved</button>
+    </div>
+  </section>
+
+  <!-- Blog Posts Section -->
+  <section class="posts">
+    <h2>Latest Blog Posts</h2>
+    <div class="post-list">
+      <article class="post">
+        <h3>Community Food Drive Success</h3>
+        <p>Our latest community food drive collected over 200 pounds of food. Thank you to everyone who contributed!</p>
+        <a href="#" class="read-more">Read More</a>
+      </article>
+      <article class="post">
+        <h3>How You Can Donate</h3>
+        <p>Learn about the different ways you can contribute food, money, or time to support our mission.</p>
+        <a href="#" class="read-more">Read More</a>
+      </article>
+      <article class="post">
+        <h3>Volunteering at Local Shelters</h3>
+        <p>Join our volunteers at local shelters and make a difference in your community today.</p>
+        <a href="#" class="read-more">Read More</a>
+      </article>
+    </div>
+  </section>
+
+  <!-- Upload Donation Report Section -->
+  <section class="report-upload">
+    <h2>Submit Your Donation Report</h2>
+    <form action="#" method="POST" enctype="multipart/form-data">
+      <input type="text" name="title" placeholder="Donation Title" required>
+      <textarea name="content" placeholder="Describe your donation..." required></textarea>
+      <input type="file" name="image" accept="image/*" required>
+      <button type="submit">Submit Report</button>
+    </form>
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2024 Weshv. All rights reserved.</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
