@@ -118,4 +118,3 @@ I'm based in **India** and open to collaborating on projects or simply chatting 
 
 ---
 
-This version organizes your skills, experience, and links clearly. Just replace any placeholder links (like GitHub stats and repository stats) if you have specific URLs for these stats on your GitHub profile.
