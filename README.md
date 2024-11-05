@@ -1,26 +1,24 @@
-Hi, I'm Devarsh 👋
-I’m currently a second-year B.Tech IT student with a strong passion for Artificial Intelligence (AI), Machine Learning (ML), Data Science, Web Development, and Cybersecurity.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devarsh Panchal
+=======================================================================================================================================
 
-<!-- Replace with your actual banner image URL -->
+I’m currently a second-year B.Tech IT student with a strong passion for Artificial Intelligence (AI), Machine Learning (ML), Data Science, Web Development, and Cybersecurity. 🚀 My Experience 🌟 Smart India Hackathon (SIH) - Participated in two editions and selected at the internal level. 🛰️ NASA Space Apps Hackathon - Contributed to innovative solutions for real-world space challenges. 🏆 DA-IICT TIC Tech Toe Hackathon - Shortlisted and ranked in the Top 10. 🎉 Google Developer Group (GDG) - Core member at my college, actively engaging in tech community building and organizing events. 🔭 Fields of Interest AI & ML Data Science Full-Stack Web Development Cybersecurity 💬 Let's Connect If you're interested in collaborating on projects or simply want to chat about AI, ML, web development, or cybersecurity, feel free to reach out! "Passionate about using technology to create meaningful solutions!"
 
-🚀 My Experience
-🌟 Smart India Hackathon (SIH) - Participated in two editions and selected at the internal level.
-🛰️ NASA Space Apps Hackathon - Contributed to innovative solutions for real-world space challenges.
-🏆 DA-IICT TIC Tech Toe Hackathon - Shortlisted and ranked in the Top 10.
-🎉 Google Developer Group (GDG) - Core member at my college, actively engaging in tech community building and organizing events.
-🔭 Fields of Interest
-AI & ML
-Data Science
-Full-Stack Web Development
-Cybersecurity
-🌱 What I'm Currently Learning
-Advanced AI and ML algorithms and techniques.
-Data manipulation and analysis with cutting-edge Data Science tools.
-Building dynamic, responsive web applications with modern frameworks.
-Exploring Cybersecurity practices to develop a secure codebase.
-<!-- Replace with your actual skills graphic URL -->
-
-💬 Let's Connect
-If you're interested in collaborating on projects or simply want to chat about AI, ML, web development, or cybersecurity, feel free to reach out!
-
-"Passionate about using technology to create meaningful solutions!"
+*   🌍  I'm based in India
+*   ✉️  You can contact me at [panchaldevarsh1610@gmail.com](mailto:panchaldevarsh1610@gmail.com)
+*   🧠  I'm learning What I'm Currently Learning Advanced AI and ML algorithms and techniques. Data manipulation and analysis with cutting-edge Data Science tools. Building dynamic, responsive web applications with modern frameworks. Exploring Cybersecurity practices to develop a secure codebase.### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/DP16102005" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/DP16102005"><img src="https://github-readme-stats.vercel.app/api?username=DP16102005&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="DP16102005's GitHub stats" /></a><a href="https://github.com/DP16102005" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DP16102005&langs_count=10&title_color=f97316&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/DP16102005/nasa_prototype1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DP16102005&repo=nasa_prototype1&title_color=f97316&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/DP16102005/WESHV" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DP16102005&repo=WESHV&title_color=f97316&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/DP16102005/nasa-69" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DP16102005&repo=nasa-69&title_color=f97316&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
