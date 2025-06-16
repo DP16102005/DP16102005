@@ -3,7 +3,7 @@
 # Hi ![Wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Devarsh Panchal
 =======================================================================================================================================
 
-I’m currently a second-year B.Tech IT student with a strong passion for **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Data Science**, **Web Development**, and **Cybersecurity**.
+I’m currently a Third-year B.Tech IT student with a strong passion for **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Data Science**, **Web Development**, and **Cybersecurity**.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 My Experience
