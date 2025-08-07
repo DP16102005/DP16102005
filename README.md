@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devarsh-Panchal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Devarsh-Panchal?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DP16102005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DP16102005?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" alt="Focus" />
 </div>
 
@@ -120,13 +120,13 @@ const devarsh = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devarsh-Panchal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devarsh-Panchal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DP16102005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DP16102005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarsh-Panchal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devarsh-Panchal&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DP16102005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DP16102005&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ### 📈 **Development Metrics**
