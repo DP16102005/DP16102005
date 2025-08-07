@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/i-am-sirius/i-am-sirius/main/assets/banner.gif" alt="Header Banner">
-  </div>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.png" alt="Header Banner">
+</div>
 
 <div align="center">
   <h1>Hey there, I'm Devarsh Panchal! 👋</h1>
@@ -26,7 +26,7 @@
     <td valign="top" width="60%">
       <h2>🎯 About Me</h2>
       <p>
-        I'm a passionate <strong>Full Stack Developer</strong> from Gujarat, India 🇮🇳, specializing in creating high-impact digital solutions. My philosophy is to code with purpose, design with empathy, and build for scale. I thrive on turning complex challenges into elegant, user-centric applications.
+        I'm a passionate <strong>Full Stack Developer</strong> from Ahmedabad, India 🇮🇳, specializing in creating high-impact digital solutions. My philosophy is to code with purpose, design with empathy, and build for scale. I thrive on turning complex challenges into elegant, user-centric applications.
       </p>
       <ul>
         <li>🎨 <strong>Design-First Development:</strong> Crafting beautiful, intuitive user experiences.</li>
@@ -104,11 +104,12 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DP16102005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=DP16102005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" />
-  <br>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DP16102005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DP16102005&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </div>
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DP16102005&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
 
 <div align="center">
   <h3>My Contribution Snake 🐍</h3>
